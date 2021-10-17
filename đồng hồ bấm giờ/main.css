@@ -1,0 +1,52 @@
+#back-ground{
+    background-image: url(./img/pexels-cottonbro-5185178.jpg);
+    background-size: 100% ;
+    background-repeat: no-repeat;
+}
+#clock{
+    display: block;
+    margin: 0px;
+    text-align: center;
+}
+#clock h1{
+    font-size: 80px;
+}
+.hienthi{
+    margin-top: 50px;
+}
+span{
+    font-size: 150px;
+    color: blue;
+}
+.bt{
+    width: 100%;
+    margin-top: 90px;
+}
+.bt button{
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+}
+#start{
+    background-color: green;
+    color: white;
+}
+#start:hover{
+    background-color: rgba(0, 255, 0, 0.8);
+}
+#stop{
+    background-color: rgba(255, 0, 0);
+    color: white;
+}
+#stop:hover{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+#rs{
+    background-color: rgba(0, 0, 0);
+    color: white;
+}
+#rs:hover{
+    background-color: rgba(0, 0, 0, 0.5);
+}
