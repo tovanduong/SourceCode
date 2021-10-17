@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Festive";
+    src: url(./font/Festive-Regular.ttf);
+}
+body{
+    background-image: url(./img/pexels-cottonbro-5185163.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#output{
+    font-family: Festive;
+    font-size: 200px;
+    min-width: 640px;
+}
+#time{
+    text-align: center;
+    padding-top: 50px;
+}
+#tieude{
+    font-family: Festive;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 100px;
+}
